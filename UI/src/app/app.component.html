@@ -1,0 +1,7 @@
+<div *ngIf='isLoading'>Loading...</div>
+<div *ngFor='let filteredSubjectResult of filteredSubjectResults' >
+    <span>{{filteredSubjectResult.year}}</span>
+    <ul>
+        <li *ngFor='let subject of filteredSubjectResult.subjects'>{{subject}}</li>
+    </ul>
+</div>
