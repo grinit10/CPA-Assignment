@@ -4,3 +4,16 @@
 
 /.vs
 /UI/.vs
+/Api/.vs/Api
+/Api/Api/bin/Debug/net5.0
+/Api/Api/obj
+/Api/Bl/bin/Debug/net5.0
+/Api/Bl/obj
+/Api/Dal/bin/Debug/net5.0
+/Api/Dal/obj
+/Api/Domain/bin/Debug/net5.0
+/Api/Domain/obj
+/Api/UT/bin/Debug/net5.0
+/Api/UT/obj
+/Api/Api.sln.DotSettings.user
+/Api/Api/Api.csproj.user
